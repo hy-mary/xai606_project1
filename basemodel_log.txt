@@ -1,0 +1,145 @@
+Epoch: 1 | train_loss: 1.1876
+Epoch: 1 | train_acc: 0.6146
+100%|██████████| 134/134 [00:27<00:00,  4.92it/s]
+Epoch: 1 | val_loss: 0.0157	Epoch: 1 | val_acc: 0.6294
+
+Val loss99999 to 2.0836260318756104 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:20<00:00,  2.85it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 2 | train_loss: 1.0635
+Epoch: 2 | train_acc: 0.6267
+100%|██████████| 134/134 [00:26<00:00,  5.00it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 2 | val_loss: 0.0168	Epoch: 2 | val_acc: 0.6283
+100%|██████████| 402/402 [02:20<00:00,  2.87it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 3 | train_loss: 1.0940
+Epoch: 3 | train_acc: 0.6217
+100%|██████████| 134/134 [00:26<00:00,  5.05it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 3 | val_loss: 0.0161	Epoch: 3 | val_acc: 0.6224
+100%|██████████| 402/402 [02:22<00:00,  2.82it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 4 | train_loss: 1.0742
+Epoch: 4 | train_acc: 0.6239
+100%|██████████| 134/134 [00:27<00:00,  4.84it/s]
+Epoch: 4 | val_loss: 0.0155	Epoch: 4 | val_acc: 0.6325
+Val loss2.0836260318756104 to 2.0664384365081787 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:21<00:00,  2.84it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 5 | train_loss: 1.0006
+Epoch: 5 | train_acc: 0.6383
+100%|██████████| 134/134 [00:27<00:00,  4.96it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 5 | val_loss: 0.0180	Epoch: 5 | val_acc: 0.6353
+100%|██████████| 402/402 [02:23<00:00,  2.81it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 6 | train_loss: 0.9856
+Epoch: 6 | train_acc: 0.6399
+100%|██████████| 134/134 [00:26<00:00,  4.97it/s]
+Epoch: 6 | val_loss: 0.0148	Epoch: 6 | val_acc: 0.6033
+Val loss2.0664384365081787 to 1.9731193780899048 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:36<00:00,  2.56it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 7 | train_loss: 0.9394
+Epoch: 7 | train_acc: 0.6502
+100%|██████████| 134/134 [00:30<00:00,  4.42it/s]
+Epoch: 7 | val_loss: 0.0121	Epoch: 7 | val_acc: 0.6633
+Val loss1.9731193780899048 to 1.607093334197998 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:45<00:00,  2.42it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 8 | train_loss: 0.9131
+Epoch: 8 | train_acc: 0.6598
+100%|██████████| 134/134 [00:30<00:00,  4.39it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 8 | val_loss: 0.0227	Epoch: 8 | val_acc: 0.5841
+100%|██████████| 402/402 [02:50<00:00,  2.36it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 9 | train_loss: 0.8820
+Epoch: 9 | train_acc: 0.6650
+100%|██████████| 134/134 [00:29<00:00,  4.49it/s]
+Epoch: 9 | val_loss: 0.0112	Epoch: 9 | val_acc: 0.6750
+Val loss1.607093334197998 to 1.485426425933838 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:43<00:00,  2.46it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 10 | train_loss: 0.8554
+Epoch: 10 | train_acc: 0.6771
+100%|██████████| 134/134 [00:29<00:00,  4.53it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 10 | val_loss: 0.0160	Epoch: 10 | val_acc: 0.6776
+100%|██████████| 402/402 [02:45<00:00,  2.44it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 11 | train_loss: 0.8574
+Epoch: 11 | train_acc: 0.6770
+100%|██████████| 134/134 [00:29<00:00,  4.51it/s]
+Epoch: 11 | val_loss: 0.0100	Epoch: 11 | val_acc: 0.6965
+Val loss1.485426425933838 to 1.3250911235809326 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:47<00:00,  2.41it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 12 | train_loss: 0.8413
+Epoch: 12 | train_acc: 0.6811
+100%|██████████| 134/134 [00:29<00:00,  4.50it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 12 | val_loss: 0.0102	Epoch: 12 | val_acc: 0.6888
+100%|██████████| 402/402 [02:47<00:00,  2.40it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 13 | train_loss: 0.8354
+Epoch: 13 | train_acc: 0.6895
+100%|██████████| 134/134 [00:30<00:00,  4.46it/s]
+Epoch: 13 | val_loss: 0.0081	Epoch: 13 | val_acc: 0.7086
+Val loss1.3250911235809326 to 1.0782630443572998 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:47<00:00,  2.40it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 14 | train_loss: 0.8163
+Epoch: 14 | train_acc: 0.6949
+100%|██████████| 134/134 [00:30<00:00,  4.46it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 14 | val_loss: 0.0101	Epoch: 14 | val_acc: 0.7042
+100%|██████████| 402/402 [02:48<00:00,  2.39it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 15 | train_loss: 0.7978
+Epoch: 15 | train_acc: 0.6990
+100%|██████████| 134/134 [00:30<00:00,  4.42it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 15 | val_loss: 0.0138	Epoch: 15 | val_acc: 0.7182
+100%|██████████| 402/402 [02:47<00:00,  2.40it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 16 | train_loss: 0.7763
+Epoch: 16 | train_acc: 0.7018
+100%|██████████| 134/134 [00:30<00:00,  4.45it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 16 | val_loss: 0.0119	Epoch: 16 | val_acc: 0.7150
+100%|██████████| 402/402 [02:49<00:00,  2.38it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 17 | train_loss: 0.7598
+Epoch: 17 | train_acc: 0.7137
+100%|██████████| 134/134 [00:30<00:00,  4.43it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 17 | val_loss: 0.0153	Epoch: 17 | val_acc: 0.5876
+100%|██████████| 402/402 [02:50<00:00,  2.36it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 18 | train_loss: 0.7553
+Epoch: 18 | train_acc: 0.7188
+100%|██████████| 134/134 [00:30<00:00,  4.37it/s]
+  0%|          | 0/402 [00:00<?, ?it/s]
+Epoch: 18 | val_loss: 0.0102	Epoch: 18 | val_acc: 0.6673
+100%|██████████| 402/402 [02:50<00:00,  2.36it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 19 | train_loss: 0.7430
+Epoch: 19 | train_acc: 0.7245
+100%|██████████| 134/134 [00:30<00:00,  4.45it/s]
+Epoch: 19 | val_loss: 0.0072	Epoch: 19 | val_acc: 0.7313
+Val loss1.0782630443572998 to 0.9537551403045654 upgrade, and save model /home/user/disk2/mary/xai606/models/basemodel.pt
+100%|██████████| 402/402 [02:50<00:00,  2.36it/s]
+  0%|          | 0/134 [00:00<?, ?it/s]
+Epoch: 20 | train_loss: 0.7313
+Epoch: 20 | train_acc: 0.7271
+100%|██████████| 134/134 [00:30<00:00,  4.43it/s]
+Epoch: 20 | val_loss: 0.0097	Epoch: 20 | val_acc: 0.7376
+
+-------------------test--------------------
+100%|██████████| 134/134 [00:30<00:00,  4.41it/s]
+Epoch: 20 | Test Loss: 0.0103	Epoch: 20 | Test Acc: 0.7331
+
+
+
